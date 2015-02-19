@@ -3,11 +3,18 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.11.1.
 
-## Global dependencies
+## Global packages needed
 
-bower
-grunt-cli
+bower,
+grunt-cli,
 karma-cli
+
+## Install dependencies
+
+```shell
+npm install
+bower install
+```
 
 ## Build & development
 
